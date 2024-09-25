@@ -1,4 +1,5 @@
 # IFN507-Group-Project
+
 IFN507 Network Systems
 Group Assignment: Security Analysis
 Version 1.0 on Thursday 19 Sep 2024
@@ -8,7 +9,9 @@ Highlights
   Due date: 23:59 Friday 25 Oct 2024 (Submission by 23:59 Sunday 27 Oct 2024 is acceptable
 without any academic penalty).
   Submit your assignment in a .pdf or .docx via Canvas by the due date.
-1. Summary of Key Information
+
+
+# 1. Summary of Key Information
 GroupWork: This assignment is a group-of-three project. You may form your own group and
 enroll your group on Canvas. Your group members can be from different practicals sessions.
 
@@ -52,8 +55,7 @@ a longer response than a section with fewer overall marks.
 How to submit: Submit an assignment report via Canvas. Your report should be in .pdf, .docx,
 or .doc format.
 
-# ONE and Only ONE of your group members submits your assignment report on behalf of
-# the whole group.
+# ONE and Only ONE of your group members submits your assignment report on behalf of the whole group.
 
 Multiple times of submissions are allowed from a group before the due date. But only the
 last submission before the due date will be marked.
@@ -66,7 +68,7 @@ will not be awarded any marks.
 
 
 
-2. Project Scenario
+# 2. Project Scenario
 You work for a company that has a high-availability requirement for its computer network and network
 services. You are asked to investigate a problem with a File Server on your company’s network.
 It has been determined that some sort of network security incident has occurred. As a result of the
@@ -83,7 +85,7 @@ seen in the provided sample.
 
 
 
-3. Assignment Task
+# 3. Assignment Task
 This is a group assessment. Each group is a team of three (3) students. You are asked to analyse the
 capture file and carry out your own research to determine the cause of the interrupted service. Report
 your findings using the template provided. Your assignment tasks include:
@@ -98,16 +100,17 @@ and provide specific packet examples from the capture file;
 benefits and limitations of your recommended strategies.
 
 
-4. Individual Contribution
+# 4. Individual Contribution
 It is expected that all team members contribute equally and meaningfully to this assessment. Do not
 wait until the last minute to contact your team members.
-2
 If you have been trying to contact a team member and have received no response, please keep a
 record of this. If they have not responded or contributed by week 11, you can exclude them from your
 group by claiming their contribution as 0% on your final submission. You must claim your individual
 contribution in the table provided in the template. Please be concise in your contribution statement.
 Non-contributing team members will not be awarded any marks.
-5. Report Submission
+
+
+# 5. Report Submission
 Your team should submit an electronic copy of your completed report for marking by the due date.
 The format of your report should be .pdf or .docx. Submission for final marking is through the Canvas;
 look for the submission link for the report. Only ONE member of the team should submit the report.
@@ -117,14 +120,14 @@ graded.
 Submission by email will NOT be accepted.
 
 
-6. Marking Criteria
+# 6. Marking Criteria
 This assessment task is worth 30%. The marking criteria document outlines the criteria you will be
 assessed against. This is a separate document released together with this specification document. Use
 this criteria document as a guide when working on the assessment. You should self- assess your work
 prior to submission using the marking criteria.
 
 
-7. Teamwork
+# 7. Teamwork
 This assessment task requires that you work in a team of three (3) students. This increases discussion
 opportunities and perhaps leads to exploring ideas that may not have otherwise occurred to you as an
 individual. However, as in any relationship, working together may become difficult if group members
@@ -147,7 +150,6 @@ that will impact on your availability?
   Are you able to work on this during the day, at night, or over the weekend?
   How will we meet (Zoom? Teams? Facetime?) and how often? How much can you do
 independently between meetings?
-3
   Are there considerations that need to be made regarding time zones? Some group members
 may be currently traveling interstate or overseas due to whatever reasons.
 3) What are your skills or strengths?
@@ -162,7 +164,7 @@ useful to have team-mates whose strengths complement yours, so that together you
 team.
 
 
-8. Academic Integrity
+# 8. Academic Integrity
 This assessment contains elements of both analysis and research. You are expected to consult suitable
 academic and authoritative sources such as journal articles, conference proceedings, textbooks,
 and other authoritative industry sources on networking and security. When obtaining information
