@@ -1,15 +1,5 @@
 # IFN507-Group-Project
 
-IFN507 Network Systems
-Group Assignment: Security Analysis
-Version 1.0 on Thursday 19 Sep 2024
-Distribution Date: Thu 19/09/24 (Week 9) Due Date: 23:59 Fri 25/10/24 (Week 13)
-Highlights
-  Group-of-three assignment.
-  Due date: 23:59 Friday 25 Oct 2024 (Submission by 23:59 Sunday 27 Oct 2024 is acceptable
-without any academic penalty).
-  Submit your assignment in a .pdf or .docx via Canvas by the due date.
-
 
 # 1. Summary of Key Information
 GroupWork: This assignment is a group-of-three project. You may form your own group and
