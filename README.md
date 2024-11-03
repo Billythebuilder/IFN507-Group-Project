@@ -1,5 +1,5 @@
 # IFN507-Group-Project
-
+ Backtesting different RSI setups
 
 # 1. Summary of Key Information
 GroupWork: This assignment is a group-of-three project. You may form your own group and
