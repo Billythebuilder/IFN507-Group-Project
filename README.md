@@ -9,6 +9,7 @@ If you do not have a group or do not enroll your group on Canvas by the end of W
 (Sunday 22 Sep 2024), you will be assigned to a random group.
 
 Due Date: 23:59 Friday 25 Oct 2024.
+Due Date: 23:59 Friday 25 Oct 2024.
 
 Submission by 23:59 Sunday 27 Oct 2024 is acceptable without any academic penalty.
 
