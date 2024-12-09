@@ -1,6 +1,6 @@
 # IFN507-Group-Project
 
-# 1. Summary of Key Information# 1. Summary of Key Information
+# 1. Summary of Key Information# 1. Summary of Key Information# 1. Summary of Key Information
 # 1. Summary of Key Information
 GroupWork: This assignment is a group-of-three project. You may form your own group and
 enroll your group on Canvas. Your group members can be from different practicals sessions.
